@@ -1,0 +1,72 @@
+Part 1: INTRODUCTION OF SOFTWARE ENGINEERING
+1. Software engineering is the systematic method for the development of software through a process of planning, designing, constructing, evaluating and maintaining. This branch of study combines the concepts of computer science and engineering, coming up with lasting and efficient solutions in form of software’s. Software engineering is of paramount significance in the sphere of technology given that it guarantees that created software is rightly fit to the need of users in the future as well as can undergo amendments when certain technology or requirement alters. Adoption of best practices in software engineering yields in better quality software, less cost and time is taken.
+
+2. Brief History of Software Engineering
+The Invention of the Compiler (1950s): As for the compilers programmers used to code in assembly language, even in machine code if there were no compilers at all. The compiler, which assigns meaning of high-level programming languages and translates it to machine, became in the field of software development the key that made it very easy and efficient to work on.
+
+The Introduction of Object-Oriented Programming (OOP) (1960s-70s): OOP introduced ideas such as classes and objects thus enabling the developers to create more efficient code that can be reused. This has since formed the basis of the approach to software development.
+
+Agile Methodology (2001): The basis of a new approach of software development, which included iteration, collaboration, and accommodation was described in Agile Manifesto. We can state that agility has made its way to get one of the most used approaches to the modern software development.
+
+3. Some of the steps or phases of the Software Development Life Cycle (SDLC)
+Requirement Analysis: Identifying and collecting the requirements and limitation of the software.
+Design: Defining the structures of architecture and design characteristics.
+Implementation (Coding): Developing actual code from the design documents that is the code development process.
+Testing: Making sure that the target software functions correctly and is devoid of glitches.
+Deployment: The making of the product available to the user.
+Maintenance: Making changes to a programs code in order to correct mistakes, enhance the program and implement new needs.
+4. Waterfall vs. Agile Methodologies
+
+Waterfall:
+Sequential Process: All the phases of SDLC are properly distinct from each other and the succeeding phase is not commenced until the previous one is fully over.
+Appropriate Scenario: Applied in those projects where requirements are clear and do not expect changes, for example at definite prescribed conditions (e. g., medical or airline industries).
+
+Agile:
+
+Iterative Process: Development is done in cycles that are small in scale and repeated over time (sprints) enabling and feedback and change.
+Appropriate Scenario: Very useful for the projects which requirements change frequently or where delivery time and customers responses are critical as it in software startups.
+
+5. Roles in a Software Engineering Team
+
+Software Developer: Implements the design of the software and writes the code as per the specifications required. That way, they have the role of creating new features, correcting issues, and guaranteeing that the product answers the necessary demands.
+
+Quality Assurance (QA) Engineer: A process of examining the software to check it for flaws and to see that it has complied to the laid down standards. They develop test cases, run them and provide feedback to the development team when tomatoes are down.
+
+Project Manager: Responsible for coordinating the project from concept to implementation including time schedule, resources and communicating with other interested parties. It helps to maintain the project on the scope and guarantee its achievements of the goals.
+6. The role of an IDE and a VCS Integrated Development Environments (IDEs):
+
+Example: As we have seen, there are many editors that can be used for the development of Apache Spark applications such as Visual Studio Code or IntelliJ IDEA.
+Importance: Integrated Development Environment or IDE is a complex environment for developers, as all they need, starting from a code editor and including a debugger or a version control tool, are in one place. This has made the development process to be easier and improves on the rate of working.
+Version Control Systems (VCS):
+
+Example: Git, Subversion (SVN)
+Importance: This program means that multiple developers can work on a piece of code since it tracks their changes while providing control over rollbacks and versions. This is important, to ensure that there is order and collaboration when it comes to writing codes.
+7. General Problems encountered in Software Engineering
+
+Complexity Management: As the software evolves, it thickens and becomes convoluted to handle hence this software is complex.
+Strategy: Consider several simple principles to deal with the problem of its scale: using the concept of modularity and correct documentation, and refactoring.
+Keeping Up with Rapid Technology Changes: In essence, the field of technology is dynamic and complex thereby reaching a point where it becomes difficult informing for engineers.
+Strategy: Updates in their working field via courses they take, certification exams, and articles in circulation.
+Communication Gaps: Lack of communication and sharing of information and ideas among team members and other stakeholder involved in the project may cause bottle necks and misconceptions.
+Strategy: Promote the communication with employees, conduct the meetings often and make sure there is a clear documentation of the activities.
+
+8. Types of Testing
+Unit Testing: The processes of checking if elements of the module, line, or statement are correct while excluding other segments of a program.
+Importance: This is useful in detecting faults at a relatively early stage of course development.
+Integration Testing: How various segments can be tried and let them collectively form a unit.
+Importance: Checks whether the components to be combined work in the required manner.
+System Testing: Checking all the components combined in order to ensure it performs to the expected standards.
+Importance: Its primary purpose is involved in the verification of the total and comprehensive software product.
+Acceptance Testing: A form of evaluation that is done with the customer with the aim of confirming if the software under development meets his or her requirements and expectations.
+Importance: Ensures that the software is mature for release to the intended users.
+
+Part2. Introduction to AI and Prompt Engineering
+Prompts engineering deals with generation of specific inputs (prompts) that enable the AI models to be controlled to produce the required output. It is so important because the nature of the given prompt determines the fulfilment quality of an applied AI. To summarise, while the term ‘prompt engineering’ typically refers to the creation of aids in the disabilities’ community, it has the interesting and useful significances in providing the bridges between the human intentions and AI capabilities.
+2. Example of Prompt Improvement
+Vague Prompt: “Share with me something about software.”
+Improved prompt: Explain the key differences between object-oriented programming and procedural programming and provide examples of each.
+
+Why the Improved Prompt is Better:
+Clarity: The improved prompt defines what kind of information is required and helps to avoid misunderstandings.
+Specificity: It refines a large and general area of study (“software”) by choosing a part of it (programming paradigms).
+Conciseness: It is a question which, simply put, is asking for a comparison, which allows the AI to filter out the noise more effectively.
